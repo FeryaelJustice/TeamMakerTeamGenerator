@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Team Maker - Team Generator</string>
+    <string name="add_user">Introduce nuevo jugador</string>
+    <string name="btn_adduser">Añadir jugador</string>
+    <string name="btn_generateteam">Generar equipos</string>
+    <string name="error_nominplayers">¡Debes introducir como mínimo 2 jugadores para que se cree una lista de partidos!</string>
+    <string name="match">¡Partido de %1$s VS %2$s! </string>
+    <!-- Concat format: %[argument_index$]format_specifier (%1$d -> 1 is the first number, d is a String format) -->
+</resources>
